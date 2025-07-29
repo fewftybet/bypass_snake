@@ -67,7 +67,7 @@
 4. **执行 Shellcode**：
 
    - 将编译好的`loader.exe`与`output.bin`放在同一目录
-   - 确保loader.cpp中定义的`xorKey`与加密时使用的密钥一致
+   - 确保loader.cpp中定义的`xorKey`与加密时使用的密钥一致（默认值一致为 170，即 0xAA）
    - 运行`loader.exe`即可在内存中解密并执行 Shellcode
 
 ## 核心代码说明
