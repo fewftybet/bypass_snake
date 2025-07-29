@@ -16,6 +16,7 @@
 <img width="2879" height="1799" alt="3fd2f6e36c55cea835517a33c458f65" src="https://github.com/user-attachments/assets/93d1aad7-91c6-4796-9b73-efffefdf8f7f" />
 
 ## 360安全卫士
+经过实测，360安全卫士不通过主动查杀不会被检测
 <img width="2879" height="1799" alt="2cd7bf38a18133d443bff0921cfd7c1" src="https://github.com/user-attachments/assets/80933059-c271-4d8c-af27-9e9411e6d237" />
 
 ## 联想电脑管家
